@@ -49,5 +49,8 @@ Augmented Data Path:
 Generator Data Path: 
 [generator.pth](https://drive.google.com/file/d/1AACB3otpgyAIf9z7qNaqyVm4VN5H6xTH/view?usp=sharing)
 
+Generator Weights Path: 
+[generator_weights.pth](https://drive.google.com/file/d/1klHZ4uKpDKWtPdR7HTUYMgdJNtF1aIER/view?usp=sharing)
+
 Discriminator Data Path: 
 [discriminator.pth](https://drive.google.com/file/d/1f6fSs6czUOuJyvlmxjX3oyFqbSGOjUGe/view?usp=sharing)
