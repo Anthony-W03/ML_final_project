@@ -1,6 +1,6 @@
 # ML Final Project
 
-Final project for CS 424: Intro to Machine Learning
+Final Project for CS-424: Intro to Machine Learning
 
 Group: Jess M., Anthony L., Anthony W.
 
