@@ -28,6 +28,9 @@ Dataset Used:
 [Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv](https://drive.google.com/file/d/1BLHP9C-UINGtOlxfoTMAlhoTSzVo1Krr/view?usp=sharing)
 
 # Weights 
+Weight Directory:
+[WEIGHTS_DIR](https://drive.google.com/drive/folders/10APGxnjOU0gR5EPhaeEShh7HKdHA-krB?usp=sharing)
+
 Model Path:
 [xgb_weights.pkl](https://drive.google.com/file/d/1PlUvsRigILkn2RyetRPfqrWSdkBFzJ6j/view?usp=drive_link)
 
