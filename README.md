@@ -5,7 +5,7 @@ Final Project for CS-424: Intro to Machine Learning
 Group: Jess M., Anthony L., Anthony W.
 
 # Overview of the Project
-Problem: 
+<u>Problem</u>: We wanted to train a model to analyze a cybersecurity dataset with the goal of detecting various malicious attacks. We achieved this by creating 2 models, a “Defender” model that classifies the data based on specific parameters into either a benign action or an XSS, Brute Force, or SQL Injection attack, and an “Attacker” model that generates different types of attacks within a specific data range, with the ability to mimic either harmful or malicious events.
 
 Data: 
 
