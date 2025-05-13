@@ -2,7 +2,26 @@
 
 Final project for CS 424: Intro to Machine Learning
 
-Group: Jess M. Anthony L. Anthony W.
+Group: Jess M., Anthony L., Anthony W.
+
+# Overview of the Project
+Problem: 
+
+Data: 
+
+Model: 
+
+Results:
+
+# Helpful Links
+Notebook: 
+[ML_Project.ipynb](XXX)
+
+Video: 
+[ML_Video.mpg](xxx)
+
+Executive Report:
+[ML_Executive_Report.pdf](xxx)
 
 # Dataset
 Dataset Used: 
