@@ -20,3 +20,12 @@ ENC Path for persistence:
 
 Fake Path for persistence: 
 [gan_fakes.pkl](https://drive.google.com/file/d/1FqVlcgCRvP_IGGg6fj8VgZuOdIeqlrfg/view?usp=sharing)
+
+ for persistence: 
+[augmented_data.pkl](https://drive.google.com/file/d/1QbGsjUUAT4blhsOcIK7PqLqL00UmUvsH/view?usp=sharing)
+
+ for persistence: 
+[generator.pth](https://drive.google.com/file/d/1AACB3otpgyAIf9z7qNaqyVm4VN5H6xTH/view?usp=sharing)
+
+ for persistence: 
+[discriminator.pth](https://drive.google.com/file/d/1f6fSs6czUOuJyvlmxjX3oyFqbSGOjUGe/view?usp=sharing)
