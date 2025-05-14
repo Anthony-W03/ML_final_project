@@ -20,13 +20,13 @@ After running the defender model, we generated a confusion matrix, which shows t
 
 # Helpful Links
 Notebook: 
-[ML_Project.ipynb](ML_Executive_Report.pdf)
+[ML_Project.ipynb](xxxx)
 
 Video: 
 [ML_Video.mpg](xxx)
 
 Executive Report:
-[ML_Executive_Report.pdf](xxx)
+[ML_Executive_Report.pdf](ML_Executive_Report.pdf)
 
 # Dataset
 Dataset Used: 
