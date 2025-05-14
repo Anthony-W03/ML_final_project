@@ -20,7 +20,7 @@ After running the defender model, we generated a confusion matrix, which shows t
 
 # Helpful Links
 Notebook: 
-[ML_Project.ipynb](ML_Project.ipynb)
+[ML_Project.ipynb](https://colab.research.google.com/drive/1I5qRX8vrQKu65OOzWiWIVyRa5QRceSpu?usp=sharing)
 
 Video: 
 [ML_Video.mpg](xxx)
