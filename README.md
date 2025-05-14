@@ -20,7 +20,7 @@ After running the defender model, we generated a confusion matrix, which shows t
 
 # Helpful Links
 Notebook: 
-[ML_Project.ipynb](xxxx)
+[ML_Project.ipynb](ML_Project.ipynb)
 
 Video: 
 [ML_Video.mpg](xxx)
