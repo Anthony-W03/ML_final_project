@@ -23,7 +23,7 @@ Notebook:
 [ML_Project.ipynb](https://colab.research.google.com/drive/1I5qRX8vrQKu65OOzWiWIVyRa5QRceSpu?usp=sharing)
 
 Video: 
-[ML_Video.mpg](xxx)
+[ML_Video.mpg]((https://drive.google.com/file/d/1gDeR6ZOxY5Soch_Q0HYoqSeRZnlTKH4k/view?usp=sharing))
 
 Executive Report:
 [ML_Executive_Report.pdf](ML_Executive_Report.pdf)
